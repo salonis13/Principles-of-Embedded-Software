@@ -6,7 +6,7 @@ This repository contains code developed for Principles of Embedded Software cour
 
 NXP FRDM-KL25Z Freedom Development Platform built with the ARM Cortex M0+ microprocessor
 
-## Specific topics to be covered include:
+## Topics covered:
 
 - Resource constraints and real-time performance requirements
 - Development environment, including version control, configuration management, development kits, and cross-compiling and cross-debugging
